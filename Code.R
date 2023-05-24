@@ -80,7 +80,7 @@ genCov(x=covData, txdb=TxDbObject, gr=grObject, genome=genomeObject, cov_plotTyp
 genCov(x=covData, txdb=TxDbObject, gr=grObject, genome=genomeObject, cov_plotType="line", gene_isoformSel="uc007aya.1", base=NA, transform=NA)
 
 
-
+#https://genviz.org/module-03-genvisr/0003/04/01/gencov_GenVisR/
 
 
 
